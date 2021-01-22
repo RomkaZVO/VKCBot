@@ -1,1 +1,1 @@
-self.send("привет",self.peer)
+print(self.send("привет",self.peer))
